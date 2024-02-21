@@ -11,3 +11,17 @@ h6 {
   font-family: 'Merriweather', serif;
   font-weight: 700;
 }
+
+#page-change {
+  display: flex;
+  justify-content: space-evenly;
+  position: sticky;
+  bottom: 10px;
+}
+
+#page-change button{
+  background-color: rgb(44, 62, 79);
+  color: rgb(216, 233, 232);
+  padding: 10px;
+  border-radius: 5px;
+}
